@@ -1,0 +1,11 @@
+EDA
+
+https://www.kaggle.com/competitions/titanic/discussion/176690
+A list of notebooks with good EDA in the titanic problem
+
+https://www.kaggle.com/competitions/titanic/discussion/176690
+Already Did some good ground research on the beer reviews dataset 
+
+
+https://www.kaggle.com/code/morrisb/how-to-recommend-anything-deep-recommender
+A guide on creating Deep recomendeer systems.
